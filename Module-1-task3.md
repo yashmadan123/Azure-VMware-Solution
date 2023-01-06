@@ -68,7 +68,7 @@ Now that we have our networks created, we can deploy virtual machines and ensure
 
    ![](./Images/3.13.jpg)
 
-1. You will see the **workshop-vm** under the OVF & OVA Templates.
+1. Click on **OVF & OVA Templates (1)**. Under **OVF & OVA Templates (2)**, You will see the **workshop-vm (3)**
 
    ![](./Images/3.14.jpg)
    
